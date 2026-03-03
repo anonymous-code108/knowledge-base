@@ -1,0 +1,14 @@
+{
+  "name": "小爱的知识库",
+  "version": "1.0.0",
+  "description": "Personal knowledge base powered by 小爱同学",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  }
+}
